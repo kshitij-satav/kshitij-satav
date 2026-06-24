@@ -1,5 +1,7 @@
-#Sup! I'm Kshitij<br>
-I write something for machines and they understand!
+# Sup! I'm Kshitij
+
+*I write something for machines. And they understand.*
+
 
 <!--
 **kshitij-satav/kshitij-satav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
