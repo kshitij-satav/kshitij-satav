@@ -1,4 +1,5 @@
-## Hi there 👋
+Sup! I'm Kshitij
+I write something for machines and they understand!
 
 <!--
 **kshitij-satav/kshitij-satav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
